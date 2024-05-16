@@ -1,0 +1,13 @@
+/* Universal styles */
+.my-container {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.femaly img {
+   position: absolute;
+   top: -200px;
+   right: 400px;
+   width: 100px;
+   height: 100px;
+}
